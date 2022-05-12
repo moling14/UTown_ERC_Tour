@@ -453,7 +453,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   width: 40px;
   height: 40px;
   border-radius: 20px;
-  background-color: rgb(103,115,131);
+  background-color: rgb(245, 73, 109);
   cursor: pointer;
   -webkit-transition: width 0.3s ease-in-out 0.5s,
                       border-radius 0.3s ease-in-out 0.5s;
@@ -600,7 +600,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   top: 40px;
   left: 0;
   padding: 10px;
-  background-color: rgb(58,68,84);
+  background-color: rgb(166, 35, 62);
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
   overflow-y: auto;
@@ -786,8 +786,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   width: 40px;
   height: 40px;
   padding: 5px;
-  background-color: rgb(103,115,131);
-  background-color: rgba(103,115,131,0.8);
+  background-color: rgb(247, 158, 177);
+  background-color: rgba(247, 158, 177,0.8);
 }
 
 body.view-control-buttons .viewControlButton {
